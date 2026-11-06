@@ -1,0 +1,15 @@
+
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+python-dotenv
+pandas
+pytest
+langgraph>=1.0,<2.0
+streamlit>=1.40,<2.0
