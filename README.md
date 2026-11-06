@@ -15,7 +15,7 @@
 | Corpus | 4 forrásdokumentum, összesen 133 indexelt szakasz |
 
 > [!IMPORTANT]
-> **Ez a projekt oktatási és kutatási célú demonstráció, nem az OTP Bank hivatalos ügyféltájékoztató rendszere.** A válaszok tévesek vagy hiányosak lehetnek. A betöltött dokumentumok meghatározott időpontokhoz kötődnek; a rendszer nem ellenőrzi automatikusan a bank jelenleg hatályos kondícióit. Pénzügyi döntéshez a hivatalos, aktuális banki dokumentumokat kell figyelembe venni.
+> **Ez a projekt kutatási célú demonstráció, nem minősül hivatalos ügyféltájékoztató rendszernek, terméknek.** A válaszok tévesek vagy hiányosak lehetnek. A betöltött dokumentumok meghatározott időpontokhoz kötődnek; a rendszer nem ellenőrzi automatikusan a bank jelenleg hatályos kondícióit. Pénzügyi döntéshez a hivatalos, aktuális banki dokumentumokat kell figyelembe venni.
 
 ## 1. A projekt célja és hatóköre
 
